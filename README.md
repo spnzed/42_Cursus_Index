@@ -2,7 +2,6 @@
 <h5 align="center">And this are my finished projects from 42 Cursus</h5>
 <h2 align="center">✨ FINISHED PROJECTS ✨</h2>
 <h3>&nbsp;</h3>
-
 | Project        | Keywords                                                                     | Language | Skills                                                         |  Mark    |
 | -------------- | ---------------------------------------------------------------------------- | -------- |  -------------------------------------------------------------- | -------- |
 | [Libft](https://github.com/Zpalfi42/Libft)         | Unix logic                                                           | C        | `Imperative programming` `Rigor` `Algorithms & AI`             | 100/100  |
