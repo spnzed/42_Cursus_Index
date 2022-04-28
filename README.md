@@ -14,4 +14,4 @@
 
 | Project        | Keywords                                                                     | Language | Skills                                                         |  Mark    |
 | -------------- | ---------------------------------------------------------------------------- | -------- |  -------------------------------------------------------------- | -------- |
-| [minitalk](https://github.com/spnzed/minitalk)         | Unix logic                                                           | C        | `Imperative programming` `Rigor` `Algorithms & AI`             | 100/100  |
+| [minitalk](https://github.com/spnzed/minitalk)         | Unix logic                                                           | C        | `Unix` `Rigor`             | 100/100  |
