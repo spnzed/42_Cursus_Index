@@ -1,7 +1,5 @@
 <h1 align="center">Hello, I'm Aaron (aaespino)</h1>
 <h5 align="center">And this are my finished projects from 42 Cursus</h5>
-<h2 align="center"> FINISHED PROJECTS </h2>
-<h3>&nbsp;</h3>
 
 | Project        | Keywords                                                                     | Language | Skills                                                         |  Mark    |
 | -------------- | ---------------------------------------------------------------------------- | -------- |  -------------------------------------------------------------- | -------- |
