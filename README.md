@@ -12,3 +12,6 @@
 
 <h5 align="center">⚠️👷Currently working in Minitalk👷⚠️</h5>
 
+| Project        | Keywords                                                                     | Language | Skills                                                         |  Mark    |
+| -------------- | ---------------------------------------------------------------------------- | -------- |  -------------------------------------------------------------- | -------- |
+| [minitalk](https://github.com/spnzed/minitalk)         | Unix logic                                                           | C        | `Imperative programming` `Rigor` `Algorithms & AI`             | 100/100  |
