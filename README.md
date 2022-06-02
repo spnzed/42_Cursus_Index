@@ -7,9 +7,10 @@
 | [Get_Next_Line](https://github.com/spnzed/get_next_line)   | Unix logic                                                           | C        | `Unix` `Rigor` `Algorithms & AI`                     | 104/100  |
 | Born2beroot   | Unix logic                                                           | C        | `Rigor` `Network & system administration`                     | 100/100  |
 | [Printf](https://github.com/spnzed/ft_printf)         | Unix logic                                                           | C        | `Rigor` `Algorithms & AI`                                   | Pending Evaluation  |
+| [minitalk](https://github.com/spnzed/minitalk)         | Unix logic                                                           | C        | `Unix` `Rigor`             | Pending Evaluation  |
 
 <h5 align="center">⚠️👷Currently working in Minitalk👷⚠️</h5>
 
 | Project        | Keywords                                                                     | Language | Skills                                                         |  Mark    |
 | -------------- | ---------------------------------------------------------------------------- | -------- |  -------------------------------------------------------------- | -------- |
-| [minitalk](https://github.com/spnzed/minitalk)         | Unix logic                                                           | C        | `Unix` `Rigor`             | In Progress  |
+| [so_long]([https://github.com/spnzed/SoLong](https://github.com/spnzed/so_long))         | Unix logic                                                           | C        | `Unix` `Rigor`             | In Progress  |
