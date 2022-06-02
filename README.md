@@ -13,4 +13,4 @@
 
 | Project        | Keywords                                                                     | Language | Skills                                                         |  Mark    |
 | -------------- | ---------------------------------------------------------------------------- | -------- |  -------------------------------------------------------------- | -------- |
-| [so_long]([https://github.com/spnzed/SoLong](https://github.com/spnzed/so_long))         | Applicative                                                           | C        | `Imperative Programming` `Graphics`             | In Progress  |
+| [so_long](https://github.com/spnzed/so_long)         | Applicative                                                           | C        | `Imperative Programming` `Graphics`             | In Progress  |
